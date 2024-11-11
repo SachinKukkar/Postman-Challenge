@@ -2880,3 +2880,5 @@
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
 |2769 | Navya Kshatri | [navyakshatri@gmail.com](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |
 |2770 | Arshad Shaikh  | [arshadshaikh930701@gmail.com](https://www.linkedin.com/in/arshad-shaikh-0525032b0/) | [ Certificate link ](https://api.badgr.io/public/assertions/q04z4RQwTu6G7evuOCAlHA?identity__email=arshadshaikh930701%40gmail.com )  | Awesome Course!|
+
+|2771| Sachin Kukkar | [sachinkukkar1998@gmail.com](https://www.linkedin.com/posts/sachinkukkar_postman-api-fundamentals-student-expert-activity-7259968825595461632-e8aW?utm_source=share&utm_medium=member_desktop) | Fanstastic course |
